@@ -1,4 +1,4 @@
-# razorpay-pod
+# KnobControl-pod
 
 [![Version](https://img.shields.io/cocoapods/v/KnobControl-pod.svg?style=flat)](http://cocoapods.org/pods/KnobControl-pod)
 [![License](https://img.shields.io/cocoapods/l/KnobControl-pod.svg?style=flat)](http://cocoapods.org/pods/KnobControl-pod)
@@ -17,7 +17,7 @@ under the terms specified in the [LICENSE] file.
 
 We :heart: open source software!
 See [our other supported plugins / SDKs]
-or [contact us](mailto:integrations@razorpay.com?subject=Help with iOS Integration using CocoaPods) to help you with integrations.
+or [contact us](mailto:manish.kumar@paypermint.in?subject=Help with iOS Integration using CocoaPods) to help you with integrations.
 
   [CocoaPods]: http://cocoapods.org
   [contributors]: https://github.com/ppm-manish/KnobControl-pod/graphs/contributors
