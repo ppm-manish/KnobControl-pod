@@ -16,8 +16,8 @@ KnobControl-pod  is free software, and may be redistributed
 under the terms specified in the [LICENSE] file.
 
 We :heart: open source software!
-See [our other supported plugins / SDKs]
-or [contact us](mailto:manish.kumar@paypermint.in?subject=Help with iOS Integration using CocoaPods) to help you with integrations.
+
+  [contact here](mailto:manish.kumar@paypermint.in?subject=Help%20with%20iOS%20Integration%20using%20CocoaPods) to help you with integrations.
 
   [CocoaPods]: http://cocoapods.org
   [contributors]: https://github.com/ppm-manish/KnobControl-pod/graphs/contributors
