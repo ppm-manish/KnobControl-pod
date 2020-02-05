@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'KnobControl-pod'
-    s.version           = '0.0.14'
+    s.version           = '0.0.12'
     s.summary           = 'Just a  knobControl'
     s.homepage          = 'https://github.com/ppm-manish/KnobControl-pod'
 
