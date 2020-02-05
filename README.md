@@ -1,8 +1,8 @@
 # KnobControl-pod
 
 [![Version](https://img.shields.io/cocoapods/v/KnobControl-pod.svg?style=flat)](http://cocoapods.org/pods/KnobControl-pod)
-[![License](https://img.shields.io/cocoapods/l/KnobControl-pod.svg?style=flat&color=green)](https://github.com/ppm-manish/KnobControl-pod/blob/master/LICENSE)
-[![Platform](https://img.shields.io/cocoapods/p/KnobControl-pod.svg?style=flat&color=blue)](http://cocoapods.org/pods/KnobControl-pod)
+[![License](https://img.shields.io/cocoapods/l/KnobControl-pod.svg?style=flat)](https://github.com/ppm-manish/KnobControl-pod/blob/master/LICENSE)
+[![Platform](https://img.shields.io/cocoapods/p/KnobControl-pod.svg?style=flat)](http://cocoapods.org/pods/KnobControl-pod)
 
 This repository implements pod for KnobControl's iOS Framework.
 
